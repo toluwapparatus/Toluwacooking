@@ -1,3 +1,3 @@
 # Toluwacooking
-An easy all-ages appropriate recipe for a filling meal!
+An easy all-ages appropriate cooking experience for big appetites and even bigger meals!!
 site construcing practice
